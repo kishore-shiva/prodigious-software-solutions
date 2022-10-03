@@ -2347,8 +2347,8 @@ canvas#alien {
   width: 100vw;
   height: 100vh;
   margin: auto;
-  background: rgb(254,5,120);
-  background: linear-gradient(90deg, rgba(254,5,120,1) #fe0578, rgba(254,5,127,1) 100%);
+  background: rgb(232,1,237);
+  background: linear-gradient(90deg, rgba(232,1,237,1) #fe0578, rgba(254,5,127,1) 100%);
 }
 
 .wrap canvas {
