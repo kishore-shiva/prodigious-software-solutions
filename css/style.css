@@ -144,8 +144,11 @@ body {
 
 #about-list{
   padding: 10px;
+  padding-right: 150px;
   border-radius: 12px;
-  background: red;
+  background: #3f51b5;
+  background: linear-gradient(linear, left top, right top, from(#636BFF), to(#1b9dff));
+  background: linear-gradient(to right, #636BFF, #1b9dff);
 }
 
 .button:hover{
