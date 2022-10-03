@@ -2353,6 +2353,9 @@ canvas#alien {
   width: 100vw;
   height: 100vh;
   margin: auto;
+  background: #3f51b5;
+  background: -webkit-gradient(linear, left top, right top, from(#636BFF), to(#1b9dff));
+  background: linear-gradient(to right, #636BFF, #1b9dff);
 }
 
 .wrap canvas {
