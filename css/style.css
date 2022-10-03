@@ -143,8 +143,9 @@ body {
 }
 
 #about-list{
-  padding: 10px;
-  padding-right: 150px;
+  padding: 30px;
+  padding-left: 200px;
+  padding-right: 200px;
   border-radius: 12px;
   background: #3f51b5;
   background: linear-gradient(linear, left top, right top, from(#636BFF), to(#1b9dff));
